@@ -113,6 +113,6 @@ Write-Host "   Open admin-dashboard/index.html in your browser" -ForegroundColor
 Write-Host "`n🔑 Admin Credentials:" -ForegroundColor Yellow
 Write-Host "   Email: admin@civicissues.com" -ForegroundColor White
 Write-Host "   Password: admin123" -ForegroundColor White
-Write-Host "`n📱 Mobile App API URL: http://$ipAddress:5000/api" -ForegroundColor Cyan
+Write-Host "`nMobile App API URL: http://$ipAddress:5000/api" -ForegroundColor Cyan
 
 Set-Location ..
