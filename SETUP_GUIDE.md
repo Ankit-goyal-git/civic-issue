@@ -15,14 +15,7 @@
 
 ## 🖥️ **Windows Setup (PowerShell)**
 
-### **Option 1: Automated Setup**
-```powershell
-# Run as Administrator
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-.\setup-windows.ps1
-```
-
-### **Option 2: Manual Setup**
+###  Manual Setup**
 ```powershell
 # 1. Install dependencies
 cd backend
