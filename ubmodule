@@ -1,0 +1,11 @@
+mobile-app
+mobile-app/.gitignore
+mobile-app/App.js
+mobile-app/app.json
+mobile-app/assets/adaptive-icon.png
+mobile-app/assets/favicon.png
+mobile-app/assets/icon.png
+mobile-app/assets/splash-icon.png
+mobile-app/index.js
+mobile-app/package-lock.json
+mobile-app/package.json

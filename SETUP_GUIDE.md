@@ -28,11 +28,11 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 cd backend
 npm install
 
-cd ../mobile-app
+cd ..\mobile-app
 npm install
 
 # 2. Create environment file
-cd ../backend
+cd ..\backend
 # Create .env file with your configuration
 
 # 3. Start MongoDB service
@@ -45,7 +45,7 @@ npm run create-admin
 npm run dev
 
 # 6. Start mobile app (new terminal)
-cd ../mobile-app
+cd ..\mobile-app
 npm start
 ```
 
